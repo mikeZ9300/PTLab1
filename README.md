@@ -1,4 +1,4 @@
-![Build Status](https://github.com/tankistqazwsx/PTLab1/actions/workflows/python-publish.yml/badge.svg)
+[![Build Status](https://app.travis-ci.com/mikeZ9300/PTLab1.svg?token=SgxgDyohR82CAkK5bhqE&branch=main)](https://app.travis-ci.com/mikeZ9300/PTLab1)
 
 # Лабораторная 1 по дисциплине "Администрирование, сопровождение и DevOps"
 
